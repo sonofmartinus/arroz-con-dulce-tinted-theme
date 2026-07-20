@@ -13,6 +13,8 @@ Both files use the Tinted Theming 0.11 Base16 YAML format.
 
 ## Palette
 
+![Arroz con Dulce light and dark Base16 palettes](assets/palette.svg)
+
 | Base16 slot | Suggested role | Light | Dark |
 | --- | --- | --- | --- |
 | `base00` | Default background | `#FFF8E7` | `#21140F` |

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="356" viewBox="0 0 800 356" role="img" aria-labelledby="title desc">
+  <title id="title">Arroz con Dulce Base16 palettes</title>
+  <desc id="desc">Color swatches for the light and dark Arroz con Dulce themes, labeled base00 through base0F.</desc>
+  <rect width="800" height="356" rx="12" fill="#F7EBD3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600">
+    <text x="20" y="27" fill="#4A2C20" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Arroz con Dulce · Light</text>
+
+    <g fill="#4A2C20">
+      <rect x="20"  y="42" width="95" height="56" rx="5" fill="#FFF8E7"/><text x="30"  y="75">base00</text>
+      <rect x="115" y="42" width="95" height="56" rx="5" fill="#F7EBD3"/><text x="125" y="75">base01</text>
+      <rect x="210" y="42" width="95" height="56" rx="5" fill="#EAD6B8"/><text x="220" y="75">base02</text>
+      <rect x="305" y="42" width="95" height="56" rx="5" fill="#C8A77A"/><text x="315" y="75">base03</text>
+    </g>
+    <g fill="#FFF8E7">
+      <rect x="400" y="42" width="95" height="56" rx="5" fill="#765B45"/><text x="410" y="75">base04</text>
+      <rect x="495" y="42" width="95" height="56" rx="5" fill="#4A2C20"/><text x="505" y="75">base05</text>
+      <rect x="590" y="42" width="95" height="56" rx="5" fill="#321C14"/><text x="600" y="75">base06</text>
+      <rect x="685" y="42" width="95" height="56" rx="5" fill="#21110B"/><text x="695" y="75">base07</text>
+
+      <rect x="20"  y="98" width="95" height="56" rx="5" fill="#A11D48"/><text x="30"  y="131">base08</text>
+      <rect x="115" y="98" width="95" height="56" rx="5" fill="#A3470A"/><text x="125" y="131">base09</text>
+      <rect x="210" y="98" width="95" height="56" rx="5" fill="#855500"/><text x="220" y="131">base0A</text>
+      <rect x="305" y="98" width="95" height="56" rx="5" fill="#A2380C"/><text x="315" y="131">base0B</text>
+      <rect x="400" y="98" width="95" height="56" rx="5" fill="#98263E"/><text x="410" y="131">base0C</text>
+      <rect x="495" y="98" width="95" height="56" rx="5" fill="#5940A0"/><text x="505" y="131">base0D</text>
+      <rect x="590" y="98" width="95" height="56" rx="5" fill="#8C1F68"/><text x="600" y="131">base0E</text>
+      <rect x="685" y="98" width="95" height="56" rx="5" fill="#653221"/><text x="695" y="131">base0F</text>
+    </g>
+
+    <text x="20" y="195" fill="#4A2C20" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Arroz con Dulce · Dark</text>
+
+    <g fill="#FFF8E7">
+      <rect x="20"  y="210" width="95" height="56" rx="5" fill="#21140F"/><text x="30"  y="243">base00</text>
+      <rect x="115" y="210" width="95" height="56" rx="5" fill="#2C1A13"/><text x="125" y="243">base01</text>
+      <rect x="210" y="210" width="95" height="56" rx="5" fill="#3B241A"/><text x="220" y="243">base02</text>
+      <rect x="305" y="210" width="95" height="56" rx="5" fill="#A98568"/><text x="315" y="243">base03</text>
+      <rect x="400" y="210" width="95" height="56" rx="5" fill="#C8A77A"/><text x="410" y="243">base04</text>
+    </g>
+    <g fill="#21140F">
+      <rect x="495" y="210" width="95" height="56" rx="5" fill="#F2DFC0"/><text x="505" y="243">base05</text>
+      <rect x="590" y="210" width="95" height="56" rx="5" fill="#F8EBD3"/><text x="600" y="243">base06</text>
+      <rect x="685" y="210" width="95" height="56" rx="5" fill="#FFF8E7"/><text x="695" y="243">base07</text>
+
+      <rect x="20"  y="266" width="95" height="56" rx="5" fill="#E07A8A"/><text x="30"  y="299">base08</text>
+      <rect x="115" y="266" width="95" height="56" rx="5" fill="#E68A4A"/><text x="125" y="299">base09</text>
+      <rect x="210" y="266" width="95" height="56" rx="5" fill="#D9A441"/><text x="220" y="299">base0A</text>
+      <rect x="305" y="266" width="95" height="56" rx="5" fill="#D47A50"/><text x="315" y="299">base0B</text>
+      <rect x="400" y="266" width="95" height="56" rx="5" fill="#D98276"/><text x="410" y="299">base0C</text>
+      <rect x="495" y="266" width="95" height="56" rx="5" fill="#B99AC8"/><text x="505" y="299">base0D</text>
+      <rect x="590" y="266" width="95" height="56" rx="5" fill="#D58AB4"/><text x="600" y="299">base0E</text>
+      <rect x="685" y="266" width="95" height="56" rx="5" fill="#B97755"/><text x="695" y="299">base0F</text>
+    </g>
+  </g>
+</svg>
